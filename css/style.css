@@ -1,0 +1,29 @@
+.image-1{
+    width: 150px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: bisque;
+}
+body{
+    margin: 50px;
+    background-color: peachpuff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 600px;
+    
+    background-color: aquamarine;
+    border-bottom: 5px solid palevioletred;
+}
+.wrapper-1{
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+}
+.wrapper-2{
+    border: 2px dotted grey;
+}
